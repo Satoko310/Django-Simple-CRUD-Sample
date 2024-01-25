@@ -10,7 +10,7 @@ Djangoのチュートリアル用サンプルアプリケーションです。
 
 ## Version
 
-Django 2.0.2
+Django 5.0.1
 
 ## Usage
 
